@@ -36,4 +36,12 @@ public class Paquete {
         }
         return costo;
     }
+
+    public double calcularCosto(double tarifaPorKilo) {
+        double costo = peso * tarifaPorKilo;
+        if (asegurado) {
+            costo = costo + 8000;
+        }
+        return costo;
+    }
 }
