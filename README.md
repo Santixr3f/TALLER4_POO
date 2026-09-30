@@ -2,7 +2,7 @@
 <img width="863" height="464" alt="diagrama" src="https://github.com/user-attachments/assets/84b81ece-29a9-4cc8-8954-7abfa7cdd743" />
 1. ¿Qué diferencias hay entre un constructor y un método?
 
-Un constructor sirve para crear e inicializar un objeto, mientras que un método realiza una acción. El constructor tiene el mismo nombre de la clase, no tiene tipo de retorno y se ejecuta al crear el objeto. Un método puede tener otro nombre y sí puede retornar un valor.
+Un constructor sirve para crear e inicializar un objeto, en cambio un método hace una acción. El constructor tiene el mismo nombre de la clase, no tiene tipo de retorno y se ejecuta al crear el objeto. Un método puede tener otro nombre y sí puede retornar un valor.
 
 2. ¿Por qué new Paquete() dejó de compilar en la Etapa 2?
 
